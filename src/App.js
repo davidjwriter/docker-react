@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Howdy HACKED! there!
+          Travis is awesome!
         </a>
       </header>
     </div>
